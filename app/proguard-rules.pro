@@ -1,0 +1,3 @@
+-keep class top.yukonga.miuix.** { *; }
+-dontwarn top.yukonga.miuix.**
+-keep class kotlin.Metadata { *; }

@@ -54,4 +54,3 @@
 ## 致谢
 
 - [Miuix](https://github.com/compose-miuix-ui/miuix) - 优秀的 Compose 组件库
-- [KernelSU](https://github.com/tiann/KernelSU) - 项目结构参考
